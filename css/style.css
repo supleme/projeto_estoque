@@ -1,0 +1,16 @@
+img {
+    width: 50px;
+    padding-right: opx;
+}
+
+.container-fluid {
+    max-width: max-content;
+}
+
+.navbar {
+    padding: 8px;
+}
+
+.d-flex {
+    border: solid 2px blue;
+}
